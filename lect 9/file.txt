@@ -1,0 +1,7 @@
+Interview series -
+ 1. What is Javascript (nodejs,reactjs,ecma,es6) ?
+ 2. Types of function.
+ 3. How Javascript is executed?
+ 4. Hositing and fake function.
+ 5. Lexical scope and scope chain
+ 6. Var, let,const

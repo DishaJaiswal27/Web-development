@@ -1,0 +1,5 @@
+Installation -
+    1) Google Browser
+    2) VS code  (Auto-save)
+    3) Git   (Command -> git --version)
+    4) Nodejs  (Command -> node --version)

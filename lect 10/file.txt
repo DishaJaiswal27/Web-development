@@ -1,0 +1,29 @@
+JavaScript is capable of building android app,desktop apps, website and in server side application.
+It is also used in smart devices.
+UI of dragon space craft is bulit using js.
+
+Runtime Enviornment -
+ 1.Browser
+ 2.Node js
+ 3.Electron (for desktop application)
+
+runtime Enviornment contains -
+ 1. JS engine - it contains logic of js (v8,spidermonkey,webkit)
+ 2. API - it gives feature like console, setTimeOut, camera access feature etc.
+ 3. Thread,Queue etc.
+JS is only a logic language and re provides feature .
+
+Javascript is created by Brendan Eich in 10 days for netspace browser.
+liveScript -> schema(funtional programming), java( syntax), self( oops).
+later liveScript is renamed as JavaScript.
+oracle owned sun microsystems.(java and self created by syn microsystems).
+
+ECMA international write standards .
+ECMA created standard for Ecma script.
+js follows standard of es so it known as ecma script
+their are various versions of es created by es  
+
+Simple js -> vanilla js
+node js -> run Enviornment for js
+angular js/vue js/react js -> for changing ui of apps.
+ 

@@ -1,0 +1,19 @@
+With the help of nodejs and js, we create file system organizer.
+It works on the basis of cmds , main cmd is 'pep'
+pep tree ->> it return various file.
+pep organizer ->> it organizes all the files.
+pep help ->> it returns all the cmds.
+
+
+In javascript, there is only single line string .
+multiline string is not supported .
+so we use object literal here (`    `); //see in main.js in helpFn.
+
+
+###
+copy file from one folder to another works as it create an empty file first and copy the content of that file.
+copyFile function in node js work as same.
+
+process.cwd() - current working directory
+__dirname - current working directory 
+both are same cwd and __dirname.

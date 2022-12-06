@@ -1,0 +1,4 @@
+Nodejs is like sports car and js work as engine in it.
+NOdejs contains so many module like childprocess,path,os and fs etc.
+Nodejs use js to interact with modules.
+Suppose Nodejs as mobile and modules as apps so to interact with apps we need some os ,here we use js like os.
