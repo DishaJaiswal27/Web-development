@@ -1,0 +1,14 @@
+Web Scraping :- process to fetch unorganized data from website into a organized manner like pdf,database.
+Web Scraping is used in data engineering.
+
+Request Response cycle :-
+Cilent(browser) :- send Request to the server and receives html file. browser parse the html file and turn into ui.
+
+http/https protocol works between cilent and server.
+
+Server :- it process the Request and send the appropriate data regarding request into a html file to the cilent.
+
+process of webscraping :-
+1. send request to the server . -> request module
+2. parse html file and extract required data .-> cheerio module
+3. convert fetched data into required organized form .-> depends how we organizing (xlsx or jsontopdf module)

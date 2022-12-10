@@ -1,0 +1,12 @@
+Javascript runs on execution context .
+execution context is a wrapper which helps js to runs in it and provide functionality
+execution context provides 3 things : -
+1 global
+2 this 
+3 code
+
+the value of global in browser is window and this is window
+the value of global in nodejs is global and this is {}
+
+code provides hoisting facility which is assigning memory to the variable and functions.
+their is one more thing that is global execution context.. for fucntions.

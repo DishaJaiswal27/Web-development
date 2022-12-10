@@ -1,0 +1,9 @@
+Code is running in the global execution context which is in call stack.
+ when function is called execution context of that function is created and
+ global and this is forwarded. first memory is alloted in ec and code is runned.
+
+
+ scope = a area where function or variable is found
+ function are lexically scoped means function definition k upr outside dekhoge ...
+
+ scope chain = 

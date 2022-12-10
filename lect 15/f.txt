@@ -1,0 +1,13 @@
+let and const
+1. Temporal dead zone
+2. block and scope
+3. variable shadowing
+4. var/let/const
+
+
+In es6, let and const are declared.
+before es6 only var is used to declare variable.
+var has many backdraws like it is fucntion scoped, it can be declared one than 
+one time with same name.. etc etc.
+To deal with this, let and const are introduced.
+

@@ -16,7 +16,7 @@ JS is only a logic language and re provides feature .
 Javascript is created by Brendan Eich in 10 days for netspace browser.
 liveScript -> schema(funtional programming), java( syntax), self( oops).
 later liveScript is renamed as JavaScript.
-oracle owned sun microsystems.(java and self created by syn microsystems).
+oracle owned sun microsystems.(java and self created by suns microsystems).
 
 ECMA international write standards .
 ECMA created standard for Ecma script.
